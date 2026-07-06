@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="80" viewBox="0 0 260 80" role="img" aria-label="Harbor and Vine logo">
+  <g fill="none" stroke="#1E3A5F" stroke-width="3">
+    <path d="M20 58 C 28 40, 44 40, 52 58"/>
+    <line x1="36" y1="22" x2="36" y2="49"/>
+    <circle cx="36" cy="16" r="5"/>
+    <path d="M52 58 C 58 50, 64 54, 62 62"/>
+  </g>
+  <text x="76" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#1E3A5F" letter-spacing="1">Harbor &amp; Vine</text>
+</svg>

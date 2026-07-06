@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="80" viewBox="0 0 240 80" role="img" aria-label="Beanline logo">
+  <g fill="none" stroke="#B3441A" stroke-width="3">
+    <ellipse cx="40" cy="40" rx="22" ry="28"/>
+    <path d="M40 14 C 30 30, 50 50, 40 68"/>
+  </g>
+  <text x="76" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#2B2B2B" letter-spacing="1">Beanline</text>
+</svg>

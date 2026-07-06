@@ -1,0 +1,11 @@
+.env
+.env.local
+.venv/
+__pycache__/
+node_modules/
+.next/
+projects/
+published/
+.DS_Store
+*.pyc
+site/

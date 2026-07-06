@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="80" viewBox="0 0 250 80" role="img" aria-label="Paper Crane logo">
+  <g fill="none" stroke="#26428B" stroke-width="3" stroke-linejoin="round">
+    <path d="M16 56 L 40 24 L 52 44 L 64 30 L 58 58 Z"/>
+    <line x1="40" y1="24" x2="46" y2="12"/>
+  </g>
+  <text x="80" y="50" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#26428B" letter-spacing="2">PAPER CRANE</text>
+</svg>
