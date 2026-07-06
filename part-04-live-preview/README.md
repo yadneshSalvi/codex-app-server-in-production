@@ -92,7 +92,10 @@ still flow for fileChange items too, so Part 3's badges keep working.
 
 ## Break it on purpose
 
-Ask for a Google Fonts `<link>`. The default `workspace-write` sandbox has
-**no network**, so the agent can't verify or fetch anything external — watch
-the reasoning drawer as it notices the constraint and falls back to system
-fonts. Part 6 gives you the switch.
+Ask the agent to *download* webfonts: "make the site work offline: fetch the
+woff2 files with curl into fonts/". The default `workspace-write` sandbox has
+**no network**, so curl fails with a DNS error (exit 6), and you can watch the
+agent hunt every readable corner of the disk for a cached copy before
+reporting the block honestly. (Asking for a Google Fonts `<link>` is not a
+wall at all: the *reader's browser* fetches the font, not the sandbox.)
+Part 6 gives you the switch.
